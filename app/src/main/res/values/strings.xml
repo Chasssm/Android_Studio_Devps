@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="roll">ECG Classification</string>
+    <string name="fall_alert_next">Fall Alert</string>
+</resources>
